@@ -1,1 +1,4 @@
 Hi Bhakti
+
+int a,b;
+result =a+b;
